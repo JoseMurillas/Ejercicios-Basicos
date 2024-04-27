@@ -1,7 +1,7 @@
 # Ejercios basicos de php
 Ejercicios PHP, estructuras de control cíclicas y arreglos.
 
-Ciclos
+## Ciclos
 1. Elaborar una tabla HTML que contenga las columnas “número, nombre,
 teléfono, dirección y correo”, el número de filas de la tabla será dinámico,
 de acuerdo a un número ingresado desde un formulario, utilizar la
@@ -18,7 +18,7 @@ título en diferentes tamaños, esto usando la estructura cíclica for, ejemplo:
 determinadas según los valores ingresados desde un formulario, utilizar
 ambas estructuras cíclicas: for - while.
 
-Arreglos
+## Arreglos
 1. Desarrollar un algoritmo en php que reciba como entrada 10 números en un
 arreglo y luego muestre el arreglo, lo pueden hacer así:
 a. Print_r($arreglo);
