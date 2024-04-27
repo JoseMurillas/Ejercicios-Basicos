@@ -1,4 +1,4 @@
-#Ejercios basicos de php
+# Ejercios basicos de php
 Ejercicios PHP, estructuras de control cíclicas y arreglos.
 
 Ciclos
